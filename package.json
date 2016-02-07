@@ -15,7 +15,6 @@
   },
   "homepage": "http://rackt.github.io/redux",
   "dependencies": {
-    "epi-ui": "git+ssh://git@git.epidemi.co/epidemico/epi-ui#master",
     "extract-text-webpack-plugin": "^1.0.1",
     "humps": "^0.6.0",
     "isomorphic-fetch": "^2.1.1",
