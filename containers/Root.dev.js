@@ -6,7 +6,7 @@ import { Router, browserHistory } from 'react-router';
 
 export default class Root extends Component {
   render() {
-    const { store } = this.props
+    const { store } = this.props;
     return (
       <Provider store={store}>
         <div>
